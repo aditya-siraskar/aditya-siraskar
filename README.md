@@ -2,16 +2,15 @@
 
 ### 🎓 M.Tech Student (Data Science) | 📊 Quant Finance Enthusiast
 
-I enjoy learning about **Quantitative Finance**, **Mathematical Modeling**, and **Deep Learning**. My passion lies at the intersection of financial markets and advanced algorithms—using data to uncover patterns, predict volatility, and optimize strategies.
+I enjoy learning about **Quantitative Finance**, **Mathematical Modeling**, and **Deep Learning**. 
 
 ---
 
 ## 🚀 **Who am I?**
 
-* 🔭 **I’m currently working on:** A **Hybrid LSTM-GARCH model** for advanced volatility forecasting and a research paper on **NLP/LLMs in Finance** (specifically using RAG for financial sentiment analysis).
-* 🌱 **I’m currently learning:** **Stochastic Calculus** for deeper quantitative analysis.
-* 👯 **I’m looking to collaborate on:** Open-source quantitative finance libraries, algorithmic trading projects, or research involving Time Series Analysis.
-* 📚 **Interests:** Quantitative Finance, Deep Learning, 
+* 🔭 **I’m currently working on:** A **Hybrid LSTM-GARCH model** 
+* 🌱 **I’m currently learning:** **Stochastic Calculus**
+* 👯 **I’m looking to collaborate on:** Open-source quantitative finance libraries, algorithmic trading projects, or research involving Time Series Analysis. 
 
 ---
 <p align="center">
@@ -20,7 +19,7 @@ I enjoy learning about **Quantitative Finance**, **Mathematical Modeling**, and 
   </a>
 </p>
 
-## 🛠 **Languages and Tools**
+# (## 🛠 **Languages and Tools**)
 
 I focus on building robust financial models and scalable data pipelines.
 
