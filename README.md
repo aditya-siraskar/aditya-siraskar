@@ -14,6 +14,11 @@ I enjoy learning about **Quantitative Finance**, **Mathematical Modeling**, and 
 * 📚 **Interests:** Quantitative Finance, Deep Learning, 
 
 ---
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,arch,arduino,atom,aws,bootstrap,css,dart,discord,docker,figma,firebase,flask,flutter,git,github,html,js,kafka,kubernetes,matlab,mongodb,mysql,nextjs,nodejs,notion,npm,obsidian,opencv,postman,pycharm,py,pytorch,raspberrypi,react,stackoverflow,sklearn,tailwind,tensorflow,ts,vercel,vscode" />
+  </a>
+</p>
 
 ## 🛠 **Languages and Tools**
 
