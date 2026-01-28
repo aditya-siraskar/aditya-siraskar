@@ -19,31 +19,6 @@ I enjoy learning about **Quantitative Finance**, **Mathematical Modeling**, and 
   </a>
 </p>
 
-# (## 🛠 **Languages and Tools**)
-
-I focus on building robust financial models and scalable data pipelines.
-
-### **Languages & Core**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### **Data Science & ML**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-
-### **Quant & Finance**
-![QuantLib](https://img.shields.io/badge/QuantLib-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-* **Libraries:** `yfinance`, `arch` (GARCH models), `statsmodels`, `PyPortfolioOpt`
-
-### **Tools & DevOps**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
 ---
 
 ## 📈 **GitHub Stats**
