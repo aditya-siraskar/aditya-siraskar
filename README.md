@@ -1,17 +1,17 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Aditya Siraskar! 👋
 
 ### 🎓 M.Tech Student (Data Science) | 📊 Quant Finance Enthusiast
 
-I am a Data Science Master's student based in Mumbai, India, with a strong focus on **Quantitative Finance**, **Mathematical Modeling**, and **Deep Learning**. My passion lies at the intersection of financial markets and advanced algorithms—using data to uncover patterns, predict volatility, and optimize strategies.
+I enjoy learning about **Quantitative Finance**, **Mathematical Modeling**, and **Deep Learning**. My passion lies at the intersection of financial markets and advanced algorithms—using data to uncover patterns, predict volatility, and optimize strategies.
 
 ---
 
 ## 🚀 **Who am I?**
 
 * 🔭 **I’m currently working on:** A **Hybrid LSTM-GARCH model** for advanced volatility forecasting and a research paper on **NLP/LLMs in Finance** (specifically using RAG for financial sentiment analysis).
-* 🌱 **I’m currently learning:** Advanced **Data Structures & Algorithms (DSA)** and **Stochastic Calculus** for deeper quantitative analysis.
+* 🌱 **I’m currently learning:** **Stochastic Calculus** for deeper quantitative analysis.
 * 👯 **I’m looking to collaborate on:** Open-source quantitative finance libraries, algorithmic trading projects, or research involving Time Series Analysis.
-* 📚 **Interests:** Quantitative Finance, Deep Learning, Hindu Scriptures (Vedas & Puranas), and Fitness.
+* 📚 **Interests:** Quantitative Finance, Deep Learning, 
 
 ---
 
@@ -45,14 +45,13 @@ I focus on building robust financial models and scalable data pipelines.
 ## 📈 **GitHub Stats**
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=radical" alt="github stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=radical" alt="top languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=aditya-siraskar&show_icons=true&theme=radical" alt="github stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-siraskar&layout=compact&theme=radical" alt="top languages" />
 </div>
 
 ---
 
 ## 📫 **How to reach me**
 
-* 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)
-* 📧 **Email:** [your-email@example.com]
-* 🐦 **Twitter:** [@yourhandle](https://twitter.com)
+* 💼 **LinkedIn:** [linkedin.com/in/aditya-siraskar](https://www.linkedin.com/in/aditya-siraskar)
+* 📧 **Email:** atomixultimate@gmail.com
