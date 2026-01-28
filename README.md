@@ -1,7 +1,10 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Aditya+Siraskar!+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Momo+Signature&weight=400&size=35&pause=1000&color=8A2BE2&center=false&vCenter=true&width=280&height=60&lines=Hi+there,+I'm" alt="Hi there" />
+</a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&weight=700&size=40&startDelay=10000&pause=1000&color=0075FF&center=false&vCenter=true&width=380&height=60&lines=Aditya+Siraskar" alt="Aditya Siraskar" />
 </a>
 
 <p>
