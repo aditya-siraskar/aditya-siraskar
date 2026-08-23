@@ -16,13 +16,13 @@
 
 ---
 
-### 🚀 **Who am I?**
+### **Who am I?**
 
 I enjoy learning about **Quantitative Finance**, **Mathematical Modeling**, and **Deep Learning**.
 
-* 🔭 **I’m currently working on:** A **Hybrid LSTM-GARCH model**
-* 🌱 **I’m currently learning:** **Stochastic Calculus**
-* 👯 **I’m looking to collaborate on:** Open-source quantitative finance libraries, algorithmic trading projects, or research involving Time Series Analysis.
+* **I’m currently working on:** A **Hybrid LSTM-GARCH model**
+* **I’m currently learning:** **Stochastic Calculus**
+* **I’m looking to collaborate on:** Open-source quantitative finance libraries, algorithmic trading projects, or research involving Time Series Analysis.
 
 ---
 
